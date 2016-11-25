@@ -2,7 +2,7 @@ this is a test file
 
 for the second time
 
-Ramsey SAYS THE here is a further change
+here is a further change that Henry made
 
 and another change HERE THAT PROBABLY CONFLICTS
 
